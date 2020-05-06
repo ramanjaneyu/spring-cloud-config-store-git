@@ -1,10 +1,10 @@
 member:
  rent:
-  min: 8
+  min: 10
   max: 31
  price:
   discount: 3
 vehicle:
  default:
-  model: cross over
+  model: mem dev cross over
 duration: all
